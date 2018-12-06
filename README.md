@@ -18,7 +18,7 @@
 |`git commit -m "comment"`|actualiza los cambios locales actuales       |  
 |`git push origin <rama>` |actualiza el contenido de la rama remotamente|
 
-- repasamos sobre el contenido de la caja en el box modelling 
+- repasamos sobre el contenido de la caja en el Box Modeling 
 
   + marging
   + border
